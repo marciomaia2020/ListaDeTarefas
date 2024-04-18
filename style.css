@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.task-item {
+    margin-bottom: 10px;
+}
+.task-item.completed {
+    text-decoration: line-through;
+    color: #999;
+}
+h1,h2,h3,h4,h5,h6{
+ text-align: center;
+}
