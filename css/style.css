@@ -18,6 +18,7 @@
 }
 .task-item {
     margin-bottom: 10px;
+    text-align: left;
 }
 .task-item.completed {
     text-decoration: line-through;
